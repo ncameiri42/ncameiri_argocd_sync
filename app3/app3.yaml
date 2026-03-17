@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: ncameiri/iot-basic-backend:app3
+          image: ncameiri/iot-basic-backend:app2
           ports:
             - containerPort: 80
 ---
