@@ -13,7 +13,7 @@ spec:
   project: default
   source:
     path: app1
-    repoURL: https://github.com/ncameiri/argocd_sync.git
+    repoURL: https://github.com/ncameiri42/ncameiri_argocd_sync.git
     targetRevision: HEAD
 ---
 
@@ -31,7 +31,7 @@ spec:
   project: default
   source:
     path: app2
-    repoURL: https://github.com/ncameiri/argocd_sync.git
+    repoURL: https://github.com/ncameiri42/ncameiri_argocd_sync.git
     targetRevision: HEAD
 
 
@@ -51,7 +51,7 @@ spec:
   project: default
   source:
     path: app3
-    repoURL: https://github.com/ncameiri/argocd_sync.git
+    repoURL: https://github.com/ncameiri42/ncameiri_argocd_sync.git
     targetRevision: HEAD
 
 ---
